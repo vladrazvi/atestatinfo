@@ -1,4 +1,5 @@
 Atestat informatica
-theme : speedtyping test
-title : SPEEDTYPER
-description: joc
+
+tema : speedtyping test
+titlu : SPEEDTYPER
+descriere: joc
